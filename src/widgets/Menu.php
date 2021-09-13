@@ -6,7 +6,6 @@ use yii\helpers\Html;
 use yii\helpers\Url;
 
 /**
- * @deprecated https://packagist.org/packages/hail812/yii2-adminlte-widgets
  * Class Menu
  * @package hail812\adminlte3\widgets
  *
