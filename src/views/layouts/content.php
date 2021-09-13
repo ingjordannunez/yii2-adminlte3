@@ -2,7 +2,7 @@
 /* @var $content string */
 
 use yii\bootstrap4\Breadcrumbs;
-use hail812\adminlte3\widgets\Alert;
+use ingjordannunez\adminlte3\widgets\Alert;
 
 ?>
 <div class="content-wrapper">
